@@ -1,0 +1,278 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 600;
+    overflow-y: scroll;
+}
+#HeaderSection .navbar-brand{
+    margin-right: 0;
+}
+#HeaderSection img{
+    width: 93px;
+    height: 61px;
+    margin-left: 94px;
+}
+#HeaderSection .bg{
+    height: 60px;
+}
+#HeaderSection .navbar button,#HeaderSection .nav-item a{
+    color: #4f5b66;
+    font-size: 15px;
+    margin-right: 8px;
+    padding: 19px 12px;
+    border-radius: 0;
+}
+#HeaderSection .nav-icons li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 14px;
+}
+#HeaderSection .fa-angle-down{
+    margin-left: 4px;
+}
+#HeaderSection .navbar button:hover{
+    color: red;
+    background-color: white;
+    border-color: transparent;
+    border-bottom: 3px solid red !important;
+}
+#HeaderSection .nav-item a:hover{
+    color: red;
+    background-color: white;
+    border-bottom: 3px solid red !important;
+}
+#HeaderSection .nav-icons a{
+    font-size: 24px;
+    padding: 14px 3px;
+}
+#HeaderSection .dropdown-menu{
+    background-color: white;
+    font: initial;
+    border-radius: 0;
+    border-color: transparent;
+}
+#HeaderSection .dropdown-item{
+    color: #727171;
+}
+#HeaderSection .dropdown-item:hover{
+    color: red;
+}
+#CarouselSection{
+    margin: 0px 10px 0px 10px;
+}
+#CarouselSection img{
+    height: 512px;
+}
+.carousel-indicators{
+    position: relative;
+    top: 569px;
+}
+#CarouselSection .carousel-indicators button{
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 100%;
+    margin: 0px 7px !important;
+    background-color: #117a7a !important;
+}
+#FandomSection{
+    margin: 51px 8px 0px 8px;
+}
+#FandomSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#FandomCarousel div img{
+    width: 480px ;
+    margin: 27px 9px;
+    display: inline-block;
+}
+#ArrivalSection{
+    margin: 10px 11px 0px 11px;
+}
+#ArrivalSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#ArrivalCarousel div img{
+    width: 355px;
+}
+#ArrivalCarousel div .img{
+    width: 355px;
+    margin: 25px 8px;
+    display: inline-block;
+}
+#ArrivalSection h5{
+    color: #4f5b66;
+    font-size: 14px;
+    font-weight: 100;
+    border-bottom: 1px solid #00000023;
+    margin: 8px 8px 3px 10px;
+}
+#ArrivalSection .img p{
+    color: #4f5b66;
+    font: initial;
+    margin-left: 10px;
+}
+#ArrivalSection .img p span{
+    color: red;
+}
+#LatestSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#LatestCarousel div img{
+    width: 480px ;
+    margin: 27px 9px;
+    display: inline-block;
+}
+#CategoriesSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#Categories1 {
+    display: inline-block;
+    padding: 0;
+    margin-left: 3px;
+}
+/* #Categories1 li{
+    display: inline-block;
+    width: 480px;
+    height: 480px;
+    margin-left: 11px;
+} */
+#Categories1 img{
+    width: 480px;
+    margin: 25px 11px;
+}
+#Categories1 img:hover{
+    transition: 1s ease-in-out;
+}
+#Categories2 img{
+    width: 353px;
+    margin: 26px 12px;
+}
+#Categories2 img:hover{
+    transition: 1s ease-in-out;
+}
+#TopsellingSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#TopsellingCarousel div img{
+    width: 355px;
+}
+#TopsellingCarousel div .img{
+    width: 355px;
+    margin: 25px 8px;
+    display: inline-block;
+}
+#TopsellingSection h5{
+    color: #4f5b66;
+    font-size: 14px;
+    font-weight: 100;
+    border-bottom: 1px solid #00000023;
+    margin: 8px 8px 3px 10px;
+}
+#TopsellingSection .img p{
+    color: #4f5b66;
+    font: initial;
+    margin-left: 10px;
+}
+#TopsellingSection .img p span{
+    color: red;
+}
+#MembershipSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#MembershipSection #Banner img{
+    width: 1499px;
+    margin: 49px 10px 31px 10px;
+}
+#CelebritySection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#CelebritySection #Banner img{
+    width: 1499px;
+    margin: 27px 10px 0px 10px;;
+}
+#MerchandiseSection{
+    margin-top: 35px;
+}
+#MerchandiseSection h1{
+    font-size: 28px;
+    text-align: center;
+    font-weight: 900;
+    color: #282c3f;
+}
+#MerchandiseCarousel img{
+    margin: 25px 37px 10px 20px;
+}
+#MerchandiseSection h2{
+    background-color: #e71318;
+    text-align: center;
+    font-size: 39px;
+    color: white;
+    padding: 7px 0px;
+    font-weight: 100;
+}
+#MerchandiseSection h3{
+    text-align: center;
+    padding: 14px 0px;
+    font-size: 46px;
+}
+#FooterSection{
+    background-color : #e6e7e8;
+}
+#FooterSection div{
+    display: inline-block;
+}
+#FooterSection .NeedHelp{
+    margin: 40px 0px 0px 200px;
+}
+#FooterSection .Company{
+    margin: 40px 0px 0px 160px;
+}
+#FooterSection .MoreInfo{
+    margin: 40px 0px 0px 137px;
+}
+#FooterSection .StoreNearme{
+    margin: 40px 0px 0px 166px;
+}
+#FooterSection h1{
+    color: #e71318;
+    font-size: 20px;
+    /* display: inline-block; */
+}
+#FooterSection ul{
+    padding-left: 0px;
+    margin-bottom: 0px;
+   
+}
+#FooterSection li{
+    list-style: none;
+    color: #58595b;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 33px;
+}
+#FooterSection li:hover{
+    color: #e71318;
+}
