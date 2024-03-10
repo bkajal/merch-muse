@@ -3,7 +3,6 @@
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/e66d3a47-2559-4db6-add7-0958755060ff)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/5edf8f80-a941-48c4-a2a5-337a86f06bb5)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/e451626b-06d8-42bd-ab43-a79c7fe8a938)
-![image](https://github.com/bkajal/souled-store-clone/assets/153576383/427771fd-8833-4051-9c29-85b4249388e1)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/032b474d-4c2d-4852-911b-9ae123ec4b52)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/df6dbd6a-b632-436c-8cd0-1180e38dddb7)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/d30bcf75-0045-47d8-b7b1-c6846e49becb)
