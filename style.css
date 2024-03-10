@@ -104,7 +104,7 @@ body{
 }
 #ArrivalCarousel div .img{
     width: 355px;
-    margin: 25px 8px;
+    margin: 25px 7px;
     display: inline-block;
 }
 #ArrivalSection h5{
@@ -159,7 +159,7 @@ body{
 }
 #Categories2 img{
     width: 353px;
-    margin: 26px 12px;
+    margin: 26px 11px;
 }
 #Categories2 img:hover{
     transition: 1s ease-in-out;
@@ -240,9 +240,7 @@ body{
 }
 #FooterSection{
     background-color : #e6e7e8;
-}
-#FooterSection div{
-    display: inline-block;
+    display: flex;
 }
 #FooterSection .NeedHelp{
     margin: 40px 0px 0px 200px;
@@ -259,12 +257,11 @@ body{
 #FooterSection h1{
     color: #e71318;
     font-size: 20px;
-    /* display: inline-block; */
+    font-weight: 700;
 }
 #FooterSection ul{
     padding-left: 0px;
     margin-bottom: 0px;
-   
 }
 #FooterSection li{
     list-style: none;
