@@ -1,2 +1,16 @@
 # souled-store-clone
  An e-commerce website containing marketing campaigns, categories, membership, navigation to select type of categories in merchandise and store info 
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/e66d3a47-2559-4db6-add7-0958755060ff)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/5edf8f80-a941-48c4-a2a5-337a86f06bb5)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/e451626b-06d8-42bd-ab43-a79c7fe8a938)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/427771fd-8833-4051-9c29-85b4249388e1)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/032b474d-4c2d-4852-911b-9ae123ec4b52)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/df6dbd6a-b632-436c-8cd0-1180e38dddb7)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/d30bcf75-0045-47d8-b7b1-c6846e49becb)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/26b76eff-17e5-41cc-a4b7-f1820a229136)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/8308f23d-37ed-4876-bdd8-a71ad80369a4)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/c8445bcc-0736-4fb0-a4ba-1eb8e15c923b)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/a3216bf1-dafd-4c58-9a86-4a2e3dc6a234)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/cddf7bce-b6a7-45f9-a024-26ac74e806c2)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/5a886d48-aeb1-453f-a97a-d04684627007)
+![image](https://github.com/bkajal/souled-store-clone/assets/153576383/a3f39211-31c4-4069-991e-c7fbdcf33e13)
