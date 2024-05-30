@@ -1,4 +1,4 @@
-# souled-store-clone
+# merch-muse
  An e-commerce website containing marketing campaigns, categories, membership, navigation to select type of categories in merchandise and store info 
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/e66d3a47-2559-4db6-add7-0958755060ff)
 ![image](https://github.com/bkajal/souled-store-clone/assets/153576383/5edf8f80-a941-48c4-a2a5-337a86f06bb5)
